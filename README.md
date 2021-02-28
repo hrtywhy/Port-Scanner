@@ -1,8 +1,11 @@
-# Introducing
-This source code made for simple port scanner that written with python3
+# Port-Scanner
+![Build Project](https://github.com/vuejs-id/blog/workflows/Build%20Project/badge.svg) ![GitHub Pipenv locked Python version](https://img.shields.io/badge/python-3.9.2-yellowgreenr)
+
+## Introducing
+> This source code made for simple port scanner that written with python3
 
 ## 🐛 Purpose 
-This tools for learn and understand the basic some Python libraries and Networking concepts. So, contribution very welcome😊
+This tools for learn and understand the basic some Python libraries and Networking concepts. So, contribution are very welcome😊
 
 ## 🌚 How to Use
 ``` bash
