@@ -1,7 +1,6 @@
 # Port-Scanner
 ![Build Project](https://github.com/vuejs-id/blog/workflows/Build%20Project/badge.svg) ![GitHub Pipenv locked Python version](https://img.shields.io/badge/python-3.9.2-yellowgreenr)
 
-## Introducing
 > This source code made for simple port scanner that written with python3
 
 ## 🐛 Purpose 
